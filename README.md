@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jonathan
-- 👀 I’m interested in Coding
+- 👀 I’m interested in back end coding
 - 🌱 I’m currently learning node.js
 
 <!---
