@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jonathan
-- 👀 I’m interested in back end coding
-- 🌱 I’m currently learning node.js
+- 👀 I’m interested in back-end coding
 
 <!---
 1-JaeYo/1-JaeYo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
